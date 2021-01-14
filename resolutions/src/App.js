@@ -6,13 +6,13 @@ import { Container } from "react-bootstrap"
 function App() {
   return (
     <div className = "App">
-      <Header></Header>
+      <Header />
       <Container>
-        <List></List>
+        <List />
       </Container>
       <Footer />
     </div>
-  )
+  );
 }
 
 export default App;

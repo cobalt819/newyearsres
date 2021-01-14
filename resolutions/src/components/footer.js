@@ -1,8 +1,9 @@
 import './footer.css'
+
 function Footer() {
   return (
     <footer>
-        <p>caroline.piper.richards@gmail.com</p>
+        &copy; caroline.piper.richards@gmail.com
     </footer>
   )
 }

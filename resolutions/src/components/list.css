@@ -13,13 +13,21 @@ h2.list-header {
     padding: 1em;
     color: white;
     border-radius: 8px;
+    margin-top: 0.5em;
 }
 
-list-input {
+.list-input {
     width: 100%;
     border-radius: 8px;
     font-size: 1.2em;
     margin-bottom: 1em;
     margin-top: 0.5em;
     padding: 1em;
+}
+
+.submit-button {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    padding: 1em;
+    background-color: #574b90;
 }

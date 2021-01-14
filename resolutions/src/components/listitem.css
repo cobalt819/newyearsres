@@ -5,4 +5,14 @@
     color: #1a1a1a;
     font-family: "Balsamiq Sans";
     font-size: 1.5em;
+    margin-bottom: 0.5em;
+    transition: 0.2s ease-in-out;
+}
+
+.list-item: hover {
+    transform: scale(1.02);
+}
+
+.list-item input[type=checkbox] {
+    transform: scale(1.5);
 }
